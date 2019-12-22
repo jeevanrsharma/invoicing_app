@@ -75,8 +75,8 @@
                       <button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown">
                         Actions <span class="caret"></span></button>
                         <ul class="dropdown-menu" role="menu">
-                          <li><a href="#">Tablet</a></li>
-                          <li><a href="#">Smartphone</a></li>
+                          <li><a href="#">Action 1</a></li>
+                          <li><a href="#">Action 2</a></li>
                         </ul>
                       </div>
                       <button type="button" class="btn btn-link">All items in this page are selected</button>
@@ -89,24 +89,45 @@
                     <th scope="row">
                       <input type="checkbox" class="custom-control-input" id="customCheck" name="example1">
                     </th>
-                    <td>Mark</td>
-                    <td>Otto</td>
-                    <td>@mdo</td>
+                    <td> <a href="#">#1234567890</a> </td>
+                    <td>Delivered</td>
+                    <td>Jude bakers</td>
+                    <td><span style="background-color: #FF8C00">Pending</span></td>
+                    <td> <span style="background-color: #FFFF00">Unfulfilled</span> </td>
+                    <td>$123.00</td>
                   </tr>
                   <tr>
                     <th scope="row">
                       <input type="checkbox" class="custom-control-input" id="customCheck" name="example1">
                     </th>
-                    <td>Jacob</td>
-                    <td>Thornton</td>
-                    <td>@fat</td>
+                    <td> <a href="#">#1234567890</a> </td>
+                    <td>Delivered</td>
+                    <td>Jude bakers</td>
+                    <td><span style="background-color: #FF8C00">Pending</span></td>
+                    <td> <span style="background-color: #FFFF00">Unfulfilled</span> </td>
+                    <td>$123.00</td>
                   </tr>
                   <tr>
                     <th scope="row">
                       <input type="checkbox" class="custom-control-input" id="customCheck" name="example1">
                     </th>
-                    <td colspan="2">Larry the Bird</td>
-                    <td>@twitter</td>
+                    <td> <a href="#">#1234567890</a> </td>
+                    <td>Delivered</td>
+                    <td>Jude bakers</td>
+                    <td><span style="background-color: #FF8C00">Pending</span></td>
+                    <td> <span style="background-color: #FFFF00">Unfulfilled</span> </td>
+                    <td>$123.00</td>
+                  </tr>
+                  <tr>
+                    <th scope="row">
+                      <input type="checkbox" class="custom-control-input" id="customCheck" name="example1">
+                    </th>
+                    <td> <a href="#">#1234567890</a> </td>
+                    <td>Delivered</td>
+                    <td>Jude bakers</td>
+                    <td><span style="background-color: #FFFF00">Authorised</span></td>
+                    <td> <span style="background-color: #FFFF00">Unfulfilled</span> </td>
+                    <td>$123.00</td>
                   </tr>
                 </tbody>
               </table>
@@ -114,7 +135,5 @@
           </div>
         </div>
       </div>
-    </div>
-    
-  </body>
-  </html>
+    </body>
+    </html>
